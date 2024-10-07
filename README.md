@@ -15,3 +15,23 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 Here is my latest [CV](https://docs.google.com/document/d/1ncr365smFmqbMyszQh5mLmkRRyQU_vFcGpKqMNcOIzI/edit) for your reference.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+## Table of Contents
+
+* [About](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#about)
+* [Portfolio Projects](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#portfolio-projects)
+  - Predictive Modeling
+    - [Corporate Credit Rating Forecasting](https://github.com/BlazingTheTrail/Projects/blob/main/Corporate_Credit_Rating_Forecast.ipynb)
+    - [Loan Default Prediction](https://www.notion.so/Loan-Approval-POC-Model-051e5375ef654ca7a838a7067b7fe1ae?pvs=4)
+  - Data Visualization and Reporting
+    - [Metabase Dashboard on Website Traffic and Marketing Campaigns](https://www.notion.so/Visualization-Project-Summary-64ff7b58c9bd482f97d58597fe3c2b29)
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Corporate Credit Rating Forecasting
+
+### Loan Default Prediction
+
+### Metabase Dashboard on Website Traffic and Marketing Campaigns
+
+
