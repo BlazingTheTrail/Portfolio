@@ -1,6 +1,6 @@
 # Portfolio
 ## About
-Hello, I'm Xiang Ding. I am a results-driven Data Analyst with seven years of experience in end-to-end data analysis, SQL, data governance, and predictive modeling. I'm proficient in analyzing complex datasets to deliver actionable business insights using tools like MySQL, Python, Power BI, and Tableau. Additionally, I'm adept at designing and implementing data models, ETL processes, and dashboards to support data-driven decision-making.
+Hello, I'm Xiang Ding, a results-driven Data Analyst with seven years of experience in end-to-end data analysis, SQL, data governance, and predictive modeling. I'm proficient in analyzing complex datasets to deliver actionable business insights using tools like MySQL, Python, Power BI, and Tableau. Additionally, I'm adept at designing and implementing data models, ETL processes, and dashboards to support data-driven decision-making.
 
 It is my Master's degree in International Studies with a focus on economics that introduced me to quantitative methods through courses in mathematics, statistics, and econometrics. This sparked my interest in data and its applications.
  
