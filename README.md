@@ -25,6 +25,13 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Loan Default Prediction](https://www.notion.so/Loan-Approval-POC-Model-051e5375ef654ca7a838a7067b7fe1ae?pvs=4)
   - Data Visualization and Reporting
     - [Metabase Dashboard on Website Traffic and Marketing Campaigns](https://www.notion.so/Visualization-Project-Summary-64ff7b58c9bd482f97d58597fe3c2b29)
+    - Criminal Cases in Los Angeles
+    - Global Financial Markets
+  - Web Scraping
+    - Condo.ca Analysis
+  - Data Pipeline and Model Development
+    - Twitter Sentment Analysis
+
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -33,5 +40,9 @@ In this section I will list data analytics projects briefly describing the techn
 ### Loan Default Prediction
 
 ### Metabase Dashboard on Website Traffic and Marketing Campaigns
+
+### Criminal Cases in Los Angeles
+
+### Global Financial Markets
 
 
