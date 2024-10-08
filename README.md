@@ -56,4 +56,8 @@ Code: [Corporate Credit Rating Forecasting](https://github.com/BlazingTheTrail/P
 
 ### Global Financial Markets
 
+### Condo.ca Analysis
+
+### Twitter Sentiment Analysis
+
 
