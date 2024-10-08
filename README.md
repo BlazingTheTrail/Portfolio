@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
 * [About](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#about)
 * [Portfolio Projects](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#portfolio-projects)
   - Predictive Modeling
-    - [Corporate Credit Rating Forecasting](https://github.com/BlazingTheTrail/Projects/blob/main/Corporate_Credit_Rating_Forecast.ipynb)
+    - [Corporate Credit Rating Forecasting](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#corporate-credit-rating-forecasting)
     - [Loan Default Prediction](https://www.notion.so/Loan-Approval-POC-Model-051e5375ef654ca7a838a7067b7fe1ae?pvs=4)
   - Data Visualization and Reporting
     - [Metabase Dashboard on Website Traffic and Marketing Campaigns](https://www.notion.so/Visualization-Project-Summary-64ff7b58c9bd482f97d58597fe3c2b29)
@@ -36,6 +36,17 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Corporate Credit Rating Forecasting
+Goal: to predict the rating result that any given company is likely to receive.
+
+Description: This project is developed upon a dataset of corporate credit ratings released by a couple of rating agencies. 
+
+Skills: data cleaning, data analysis, EDA, model development, data visualization.
+
+Technology: MySQL, Python(Pandas & Numpy), Scikit-Learn, Tensorflow, Kinesis, Machine Learning, Deeplearning.
+
+Result: resulting in a satisfactory prediction accuracy greater than 0.66.
+
+Code: [Corporate Credit Rating Forecasting](https://github.com/BlazingTheTrail/Projects/blob/main/Corporate_Credit_Rating_Forecast.ipynb)
 
 ### Loan Default Prediction
 
