@@ -75,7 +75,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result:** The easy-to-use design of the Metabase dashboards ensures our client to efficiently navigate and leverage the wealth of data to optimize its marketing strategies.
 
-**Project ssummary:** [Metabase Dashboard on Website Traffice and Marketing Campaigns](https://www.notion.so/Visualization-Project-Summary-64ff7b58c9bd482f97d58597fe3c2b29)
+**Project summary:** [Metabase Dashboard on Website Traffice and Marketing Campaigns](https://www.notion.so/Visualization-Project-Summary-64ff7b58c9bd482f97d58597fe3c2b29)
 
 ### Criminal Cases in Los Angeles
 **Goal:** to present the criminal cases in Los Angeles in the year of 2010
