@@ -37,95 +37,95 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Corporate Credit Rating Forecasting
-Goal: to predict the rating result that any given company is likely to receive.
+**Goal:** to predict the rating result that any given company is likely to receive.
 
-Description: This project is developed upon a dataset of corporate credit ratings released by a couple of rating agencies. 
+**Description:** This project is developed upon a dataset of corporate credit ratings released by a couple of rating agencies. 
 
-Skills: data cleaning, data analysis, EDA, model development, data visualization.
+**Skills:** data cleaning, data analysis, EDA, model development, data visualization.
 
-Technology: MySQL, Python(Pandas & Numpy), Scikit-Learn, Tensorflow, Kinesis, Machine Learning, Deeplearning.
+**Technology:** MySQL, Python(Pandas & Numpy), Scikit-Learn, Tensorflow, Kinesis, Machine Learning, Deeplearning.
 
-Result: resulting in a satisfactory prediction accuracy greater than 0.66.
+**Result:** resulting in a satisfactory prediction accuracy greater than 0.66.
 
-Code: [Corporate Credit Rating Forecasting](https://github.com/BlazingTheTrail/Projects/blob/main/Corporate_Credit_Rating_Forecast.ipynb)
+**Code:** [Corporate Credit Rating Forecasting](https://github.com/BlazingTheTrail/Projects/blob/main/Corporate_Credit_Rating_Forecast.ipynb)
 
 ### Loan Default Prediction
-Goal:
+**Goal:**
 
-Description:
+**Description:**
 
-Skills:
+**Skills:**
 
-Technology: 
+**Technology:** 
 
-Result:
+**Result:**
 
-Porject File: [Loan-approval-POC-Model](https://www.notion.so/Loan-Approval-POC-Model-051e5375ef654ca7a838a7067b7fe1ae?pvs=4)
+**Porject File:** [Loan-Approval-POC-Model](https://www.notion.so/Loan-Approval-POC-Model-051e5375ef654ca7a838a7067b7fe1ae?pvs=4)
 
 ### Metabase Dashboard on Website Traffic and Marketing Campaigns
-Goal:
+**Goal:**
 
-Description:
+**Description:**
 
-Skills:
+**Skills:**
 
-Technology:
+**Technology:**
 
-Result:
+**Result:**
 
-Project ssummary: [Metabase Dashboard on Website Traffice and Marketing Campaigns](https://www.notion.so/Visualization-Project-Summary-64ff7b58c9bd482f97d58597fe3c2b29)
+**Project ssummary:** [Metabase Dashboard on Website Traffice and Marketing Campaigns](https://www.notion.so/Visualization-Project-Summary-64ff7b58c9bd482f97d58597fe3c2b29)
 
 ### Criminal Cases in Los Angeles
-Goal:
+**Goal:**
 
-Description:
+**Description:**
 
-Skills:
+**Skills:**
 
-Technology:
+**Technology:**
 
-Result:
+**Result:**
 
-Go to Tableau Dashboard [Criminal Cases in Los Angeles](https://public.tableau.com/views/Crime2010LA/DashboardCrimeinLosAngeles?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+**Go to Tableau Dashboard** [Criminal Cases in Los Angeles](https://public.tableau.com/views/Crime2010LA/DashboardCrimeinLosAngeles?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### Global Financial Markets
-Goal:
+**Goal:**
 
-Description:
+**Description:**
 
-Skills:
+**Skills:**
 
-Technology:
+**Technology:**
 
-Result:
+**Result:**
 
-Go to Tableau Deshboard [Global Financial Markets](https://public.tableau.com/app/profile/xiang.ding/viz/GlobalFinancialMarkets/DashboardforGlobalFinancialMarket)
+**Go to Tableau Deshboard** [Global Financial Markets](https://public.tableau.com/app/profile/xiang.ding/viz/GlobalFinancialMarkets/DashboardforGlobalFinancialMarket)
 
 ### Condo.ca Analysis
-Goal:
+**Goal:**
 
-Decription:
+**Decription:**
 
-Skils:
+**Skils:**
 
-Technology
+**Technology**
 
-Result:
+**Result:**
 
-Go to  Tableau Dashboard [Condo.ca analysis](https://github.com/BlazingTheTrail/Projects/blob/main/WebScraping_Project_Condos_Final_%20(2).ipynb)
+**code** [Condo.ca analysis](https://github.com/BlazingTheTrail/Projects/blob/main/WebScraping_Project_Condos_Final_%20(2).ipynb)
 
 ### Twitter Sentiment Analysis
-Goal:
+**Goal:**
 
-Description:
+**Description:**
 
-Skills
+**Skills**
 
-Technology:
+**Technology:**
 
-Result:
+**Result:**
 
-Code: [Twitter Sentiment Analysis](https://community.cloud.databricks.com/?o=631023994280248#notebook/373927016902082/command/373927016902083)
+**Code:** [Twitter Sentiment Analysis](https://community.cloud.databricks.com/?o=631023994280248#notebook/373927016902082/command/373927016902083)
 
 
 ## Contact
