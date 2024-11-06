@@ -129,7 +129,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:** [Twitter Sentiment Analysis](https://community.cloud.databricks.com/?o=631023994280248#notebook/373927016902082/command/373927016902083)
 
-**Note:** Databricks user name and password for viewing the code are upon request.
+**Note:** Databricks user name and password for viewing the code are available upon request.
 
 
 ## Contact
