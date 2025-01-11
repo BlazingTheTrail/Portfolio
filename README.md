@@ -12,7 +12,7 @@ Building on this academic and practical experience, I have successfully delivere
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-Here is my latest [CV](https://docs.google.com/document/d/1ncr365smFmqbMyszQh5mLmkRRyQU_vFcGpKqMNcOIzI/edit) for your reference.
+Here is my latest [CV](https://docs.google.com/document/d/1fzozA5KAxOIedaaAhJWrXJ-ttko0JFmZ1uIQrm98L5Y/edit?tab=t.0) for your reference.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
