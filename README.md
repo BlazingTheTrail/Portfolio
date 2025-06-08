@@ -18,20 +18,20 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 
-* [About]
-* [Portfolio Projects]
+* About
+* Portfolio Projects
   - Predictive Modeling
-    - [Corporate Credit Rating Forecasting]
-    - [Loan Default Prediction]
+    - Corporate Credit Rating Forecasting
+    - Loan Default Prediction
   - Data Visualization and Reporting
-    - [Metabase Dashboard on Website Traffic and Marketing Campaigns]
-    - [Criminal Cases in Los Angeles]
-    - [Global Financial Markets]
+    - Metabase Dashboard on Website Traffic and Marketing Campaigns
+    - Criminal Cases in Los Angeles
+    - Global Financial Markets
   - Web Scraping
-    - [Condo.ca Analysis]
+    - Condo.ca Analysis
   - Data Pipeline and Model Development
-    - [Twitter Sentment Analysis]
- * [Contact](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#contact
+    - Twitter Sentment Analysis
+ * Contact
   
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
