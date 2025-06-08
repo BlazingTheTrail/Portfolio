@@ -18,20 +18,20 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 
-* [About](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#about)
-* [Portfolio Projects](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#portfolio-projects)
+* [About]
+* [Portfolio Projects]
   - Predictive Modeling
-    - [Corporate Credit Rating Forecasting](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#corporate-credit-rating-forecasting)
-    - [Loan Default Prediction](https://www.notion.so/Loan-Approval-POC-Model-051e5375ef654ca7a838a7067b7fe1ae?pvs=4)
+    - [Corporate Credit Rating Forecasting]
+    - [Loan Default Prediction]
   - Data Visualization and Reporting
-    - [Metabase Dashboard on Website Traffic and Marketing Campaigns](https://www.notion.so/Visualization-Project-Summary-64ff7b58c9bd482f97d58597fe3c2b29)
-    - [Criminal Cases in Los Angeles](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#criminal-cases-in-los-angeles)
-    - [Global Financial Markets](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#global-financial-markets)
+    - [Metabase Dashboard on Website Traffic and Marketing Campaigns]
+    - [Criminal Cases in Los Angeles]
+    - [Global Financial Markets]
   - Web Scraping
-    - [Condo.ca Analysis](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#condoca-analysis)
+    - [Condo.ca Analysis]
   - Data Pipeline and Model Development
-    - [Twitter Sentment Analysis](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#twitter-sentiment-analysis)
-* [Contact](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#contact)
+    - [Twitter Sentment Analysis]
+ * [Contact](https://github.com/BlazingTheTrail/Portfolio/edit/main/README.md#contact
   
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
