@@ -1,136 +1,105 @@
-# Portfolio
-## About
-Hello, I'm Xiang Ding, a results-driven Data Analyst with seven years of experience in end-to-end data analysis, SQL, data governance, and predictive modeling. I'm proficient in analyzing complex datasets to deliver actionable business insights using tools like MySQL, Python, Power BI, and Tableau. Additionally, I'm adept at designing and implementing data models and dashboards to support data-driven decision-making.
+# Data Analytics & Risk Portfolio
 
-It is my Master's degree in International Studies with a focus on economics that introduced me to quantitative methods through courses in mathematics, statistics, and econometrics. This sparked my interest in data and its applications.
- 
-Subsequently, as a sovereign credit rating analyst at Lianhe Credit Rating, I gained practical experience in data collection, mining, quality assessment, and analysis. I was instrumental in developing the company's first sovereign rating model, collaborating closely with the IT department.
- 
-Recognizing the need for a more systematic foundation in data science, I completed a Data Science Diploma at the Toronto Institute of Data Science and Technology. This program equipped me with a comprehensive skill set, including proficiency in Python, SQL, machine learning, and cloud platforms like AWS and Azure. I also had the opportunity to apply my knowledge through several impactful projects.
- 
-Building on this academic and practical experience, I have successfully delivered two projects as a data science consultant at Beam Data.
+I am Xiang Ding, a Toronto-based data analyst with experience across credit risk, predictive modelling, data quality, business intelligence, and decision-support analytics.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+My work spans two complementary areas:
 
-Here is my latest [CV](https://docs.google.com/document/d/1fzozA5KAxOIedaaAhJWrXJ-ttko0JFmZ1uIQrm98L5Y/edit?tab=t.0) for your reference.
+- **Public, reproducible projects** that demonstrate end-to-end Python, SQL, machine-learning, testing, and documentation practices.
+- **Client engagements** presented as anonymized case studies because the underlying data, code, and business context are confidential.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+## Featured Public Projects
 
-## Table of Contents
+### Toronto Condo Rental Analysis
 
-* About
-* Portfolio Projects
-  - Predictive Modeling
-    - Corporate Credit Rating Forecasting
-    - Loan Default Prediction
-  - Data Visualization and Reporting
-    - Metabase Dashboard on Website Traffic and Marketing Campaigns
-    - Criminal Cases in Los Angeles
-    - Global Financial Markets
-  - Web Scraping
-    - Condo.ca Analysis
-  - Data Pipeline and Model Development
-    - Twitter Sentment Analysis
- * Contact
-  
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+An end-to-end Python project that collects rendered Toronto condo rental listings, validates and cleans the records, and produces a reproducible market analysis.
 
-### Corporate Credit Rating Forecasting
-**Goal:** to predict the rating result of a given company based on selected financial and other key indicators.
+**Skills demonstrated:** Python, web scraping, data cleaning, quality controls, exploratory analysis, automated testing, and technical documentation.
 
-**Description:** This project is to develop a predictive model upon a dataset related to thousands of corporate credit ratings assigned by several leading credit agencies. A combination data analytic skills and technologies, including machine learning and deep learning were used to ensure the final accuracy of predictions.  
+**Selected result:** A controlled ten-page collection produced 492 unique listings and 490 analysis-ready records.
 
-**Skills:** data cleaning, exploratory data analysis, model development, hyperparameter tuning, model validation, and model interpretation.
+[View the dedicated repository](https://github.com/BlazingTheTrail/toronto-condo-rental-analysis)
 
-**Technology:** MySQL, Python(Pandas & Numpy), Scikit-Learn, Tensorflow, Kinesis, Machine Learning, Deeplearning.
+### Corporate Credit Rating Classification
 
-**Results:** achieved a satisfactory prediction accuracy greater than 0.66.
+A leakage-aware benchmark using public financial-ratio data to compare binary and seven-band corporate credit-rating classification tasks.
 
-**Code:** [Corporate Credit Rating Forecasting](https://github.com/BlazingTheTrail/Projects/blob/main/Corporate_Credit_Rating_Forecast.ipynb)
-  
-### Loan Approval POC Model
-**Goal:** to accurately deny loan applicants that should be denied while minimizing the number of denied applicants that should be approved.
+**Skills demonstrated:** Python, pandas, scikit-learn, classification modelling, temporal validation, model evaluation, automated testing, and reproducible project structure.
 
-**Description:** This project is to build a machine learning based model able to predict default probabilities of loan applicants. 3-month bank transaction records of thousands historical applicants were used for training and testing the model, with a desired accuracy rate of 70% set by the client.
+**Selected result:** The binary benchmark achieved balanced accuracy of approximately 0.79 and macro F1 of approximately 0.78. The more difficult seven-band benchmark is reported separately to avoid overstating model performance.
 
-**Skills:** MySQL, Python(Pandas & Numpy), Scikit-Learn, Tensorflow, Kinesis, Machine Learning, Deeplearning.
+[View the dedicated repository](https://github.com/BlazingTheTrail/corporate-credit-rating-classification)
 
-**Technology:** MySQL, Python(Pandas & Numpy), Scikit-Learn, Tensorflow, Kinesis, Machine Learning, Deeplearning, FastAPI, Docker
+## Selected Client Work — Anonymized
 
-**Result:** succeeded in reaching the desired accuracy rate of 70%
+The following engagements are described at a high level. Client names, source data, production code, credentials, system identifiers, and commercially sensitive metrics are not published.
 
-**Porject File:** [Loan Approval POC Model](https://www.notion.so/Loan-Approval-POC-Model-051e5375ef654ca7a838a7067b7fe1ae?pvs=4)
+### Loan Approval Proof of Concept
 
-**Note:** Since the code of this project contains non-public information, here I just provide you with the priliminary project launching file above for your reference.
+Developed and evaluated a proof-of-concept classification workflow using historical application and transaction information. The work focused on reducing costly decision errors while supporting a reviewable model-development process.
 
-### Metabase Dashboard on Website Traffic and Marketing Campaigns
-**Goal:** to develop a sophisticated solution that provides an easier yet deeper understanding of a client's website traffic and the efficacy of their marketing campaigns
+**Skills demonstrated:** SQL, Python, feature engineering, classification modelling, validation, business-metric alignment, API-oriented delivery, and containerization.
 
-**Description:** Our client - a leading institution in Canada, heavily relies on its official website for marketing and user acquisition. The institute’s management places great importance on website data research, utilizing several tools, particularly the Google Analytics 4, to evaluate its marketing effectiveness. However, the current Google Analytics dashboard falls short of providing deep insights and a user-friendly interface regarding the effectiveness of marketing campaigns. To address this gap, the management has been seeking a better solution, leading to the launch of this Project.
+*Confidential engagement — methodology and responsibilities are summarized without client data or source code.*
 
-**Skills:** data extracting, data quality assessment, data cleaning, data analyzing, data visualisation
+### Website Traffic & Marketing Campaign Analytics
 
-**Technology:** Airbyte, PostgreSQL, DataGrip, Google Analytics 4, Metabase
+Designed an analytics workflow that moved website and campaign data into a queryable environment and supported stakeholder-facing dashboards for acquisition and marketing-performance analysis.
 
-**Result:** The easy-to-use design of the Metabase dashboards ensures our client to efficiently navigate and leverage the wealth of data to optimize its marketing strategies.
+**Skills demonstrated:** Airbyte, PostgreSQL, SQL, GA4, Metabase, data-quality assessment, KPI design, dashboard development, and stakeholder communication.
 
-**Project summary:** [Metabase Dashboard on Website Traffice and Marketing Campaigns](https://www.notion.so/Visualization-Project-Summary-64ff7b58c9bd482f97d58597fe3c2b29)
+[Read the anonymized case study](case-studies/website-marketing-analytics.md)
+
+### Training Assessment Analytics
+
+Analyzed assessment and participation data to support program-level reporting and identify patterns relevant to training outcomes.
+
+**Skills demonstrated:** Python, pandas, exploratory analysis, data validation, visualization, and business reporting.
+
+*Confidential engagement — only anonymized responsibilities and transferable methods are presented.*
+
+## Additional Public Visualization Work
 
 ### Criminal Cases in Los Angeles
-**Goal:** to present the criminal cases in Los Angeles in the year of 2010
 
-**Description:** This project is developed to display the criminal cases in Los Angeles in the year of 2010. A variety of metrics and dimentions, such as occurence hours, victim genders, occurence neighborhood, criminal type and their relationships were anyalized in details, enabling audience to better understand the criminal cases in Los Angeles during that period of time.
+A descriptive Tableau dashboard examining 2010 Los Angeles crime records across time, location, offense category, and victim attributes.
 
-**Skills:** data collection, data cleaning, data analysis, and data visualization
+**Skills demonstrated:** MySQL, SQL, DataGrip, Tableau, data preparation, and dashboard design.
 
-**Technology:** MySQL, DataGrip, Tableau
-
-**Result:** Criminal cases in Los Angeles in the year of 2010 are clearly presented.
-
-**Go to Tableau Dashboard** [Criminal Cases in Los Angeles](https://public.tableau.com/views/Crime2010LA/DashboardCrimeinLosAngeles?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[View the Tableau dashboard](https://public.tableau.com/app/profile/xiang.ding/viz/Crime2010LA/DashboardCrimeinLosAngeles) · [Read the project note](case-studies/los-angeles-crime-dashboard.md)
 
 ### Global Financial Markets
-**Goal:** to present trends of global financial markets in a given month
 
-**Description:** This project is developed to display the changes happened in global financial markets, including foreign exchange markets, stock marketes, bond markets, commodity markets, and inter-bank markets, with the aim to help our client making data-driven decisions and maximize its profits.
+A Tableau dashboard presenting selected movements across foreign-exchange, equity, bond, commodity, and interbank markets.
 
-**Skills:** data load, data cleaning, data analysis, data visualization
+**Skills demonstrated:** MySQL, SQL, DataGrip, financial-market analysis, and Tableau.
 
-**Technology:** MySQL, DataGrip, Tableau
+[View the Tableau dashboard](https://public.tableau.com/app/profile/xiang.ding/viz/GlobalFinancialMarkets/DashboardforGlobalFinancialMarket)
 
-**Result:** trends of selected global financial markets are clearly presented.
+## Skills Evidence
 
-**Go to Tableau Deshboard** [Global Financial Markets](https://public.tableau.com/app/profile/xiang.ding/viz/GlobalFinancialMarkets/DashboardforGlobalFinancialMarket)
+| Capability | Evidence |
+|---|---|
+| Python and pandas | Toronto rental analysis; credit-rating benchmark; anonymized client analyses |
+| SQL and relational data | Marketing analytics; loan POC; Tableau projects |
+| Machine learning | Credit-rating classification; loan approval POC |
+| Data quality and validation | Toronto cleaning pipeline; credit-rating audit; marketing analytics |
+| BI and visualization | Metabase; Tableau; Matplotlib and Seaborn |
+| Reproducibility and testing | Dedicated public repositories with structured source code, tests, documentation, and versioned outputs |
+| Credit and financial risk | Corporate credit-rating benchmark; loan approval POC; financial-markets reporting |
 
-### Condo.ca Analysis
-**Goal:** to analyze Toronto's condo rental status
+## Confidentiality Approach
 
-**Decription:** This project includes to use web scraping approach to extract needed data from Condo.ca, to develop a structured data set for further analysis, to cleanup and analyze the data, and finally to accomplished the data visualization.
+Client work is deliberately presented without:
 
-**Skils:** data crawling, dataset building, data cleaning, data analysis, and data visualization
+- client names, logos, domains, or system identifiers;
+- row-level records or proprietary datasets;
+- production source code, credentials, or infrastructure configuration;
+- exact commercial metrics that could identify the organization.
 
-**Technology:** Python, Seaborn, Matplotlib
-
-**Result:** succeeded in presenting the status of Toronto condo rental status.
-
-**code** [Condo.ca analysis](https://github.com/BlazingTheTrail/Projects/blob/main/WebScraping_Project_Condos_Final_%20(2).ipynb)
-
-### Twitter Sentiment Analysis
-**Goal:** to analyze the sentiments of selected twitters.
-
-**Description:** This project is developed to analyze the twitter sentiment on AI topic. Specifically, I extracted 10,000 twitters, dated on December 8, 2022 and containing the topic of AI, then built up a dataset for later analysis. Further， I cleaned up the data, transformed the features and trained and evaluated a analytical model. 
-
-**Skills:** Load Dataset, Data Cleaning, Feature Transformer, Label Encoder, Model Training, Model Evaluation, Use Pipeline
-
-**Technology:** AWS(EC2, S3), NPL, PySpark(Databricks), Athena, QuickSight
-
-**Result:** Suceeded in analyzing twetter sentiment.
-
-**Code:** [Twitter Sentiment Analysis](https://community.cloud.databricks.com/?o=631023994280248#notebook/373927016902082/command/373927016902083)
-
-**Note:** Databricks user name and password for viewing the code are available upon request.
-
+Where useful, architecture diagrams, synthetic examples, generalized KPI definitions, and anonymized screenshots may be provided instead.
 
 ## Contact
-Email: [dingxiangonline@gmail.com](mailto:dingxiangonline@gmail.com)
+
+- Email: [dingxiangonline@gmail.com](mailto:dingxiangonline@gmail.com)
+- GitHub: [BlazingTheTrail](https://github.com/BlazingTheTrail)
+
