@@ -37,7 +37,9 @@ The following engagements are described at a high level. Client names, source da
 
 Developed and evaluated a proof-of-concept classification workflow using historical application and transaction information. The work focused on reducing costly decision errors while supporting a reviewable model-development process.
 
-**Skills demonstrated:** SQL, Python, feature engineering, classification modelling, validation, business-metric alignment, API-oriented delivery, and containerization.
+**Skills demonstrated:** MySQL, DataGrip, Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, feature engineering, classification modelling, ROC-AUC, and F1 evaluation.
+
+[Read the anonymized case study](case-studies/transaction-based-loan-risk-poc.md)
 
 *Confidential engagement — methodology and responsibilities are summarized without client data or source code.*
 
@@ -102,4 +104,3 @@ Where useful, architecture diagrams, synthetic examples, generalized KPI definit
 
 - Email: [dingxiangonline@gmail.com](mailto:dingxiangonline@gmail.com)
 - GitHub: [BlazingTheTrail](https://github.com/BlazingTheTrail)
-
