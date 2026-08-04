@@ -7,6 +7,12 @@ transaction history into applicant-level features for loan risk assessment.
 Client identity, raw data, proprietary rules, exact volumes, and production
 details are intentionally withheld.
 
+## Public demonstration
+
+[View the confidentiality-safe public repository](https://github.com/BlazingTheTrail/transaction-loan-risk-case-study)
+
+This repository uses generated data and reproducible evaluation to demonstrate the analytical workflow without exposing client identity, records, proprietary rules, model parameters, or production details.
+
 ## My contribution
 
 - Defined a point-in-time feature window to prevent post-decision leakage.
